@@ -48,7 +48,7 @@ I’m passionate about programming, IoT development, automation, and integrating
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel160702&theme=tokyonight" height="180" />
 </p>
 
 ---
