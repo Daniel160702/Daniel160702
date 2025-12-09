@@ -1,13 +1,27 @@
 ![Image](https://github.com/user-attachments/assets/4d37911d-2fd8-4e8b-834b-9592d2d59912)
-## 👋 Hi, I'm an Engineer
-<!--
--->
-### Summary
-A bachelor’s degree in Electrical Engineering from the University of Jambi, with strong interest in Engineering Utility, Maintenance Engineering, Electrical, and Instrumentation. Has a solid track record working at PT Samudera Agro Mas as an Electrical Mechanic, responsible for the installation, maintenance, and troubleshooting of PLCs, MCCs, power distribution, utility systems, and ensuring consistent implementation of quality with standards such as PUIL, SNI, SPLN, and occupational safety system K3. Previously involved in the maintaining and troubleshooting of industrial electrical and instrumentation systems during an internship at PT PLN Indonesia Power – PLTU Teluk Sirih. Also engaged in building an MSME focused on developing technology-based products. Strengthened professional competence through certifications in Occupational Health & Safety and Environmental Management Systems from Makin Ahli (2025), demonstrating a strong commitment to safety, quality, and continuous improvement.
+## 👋 Hi, I'm Tikkos Daniel Pasaribu
 
-### 🔧 Skills
-Electrical Maintenance • PLC & Control Panels • Microcontrollers • C++ • HTML/CSS/JS • Fuzzy Logic • PCB Design
+I am an Electrical Engineering graduate with experience as an Electrical Mechanic, focusing on maintenance, troubleshooting, and industrial electrical systems. I also have a strong interest in programming, technology development, and building simple automation projects.
+
+---
+
+### 🔧 Skills & Interests
+- Electrical Maintenance & Troubleshooting  
+- Control Panels, Motors, Relays, Sensors  
+- Microcontrollers (ESP32, Arduino)  
+- Programming (C++, HTML, CSS, JavaScript)  
+- Fuzzy Logic Control & Automation  
+- PCB Design & EDA Tools  
+
+---
+
+### 📚 Currently Exploring
+- Web development for engineering tools  
+- IoT-based automation  
+- HRIS, system integration & digital workflows  
+
+---
 
 ### 📫 Contact
-Email: pasaribudaniel04@gmail.com  
-LinkedIn: linkedin.com/in/tikkosdanielpasaribu
+- **Email:** pasaribudaniel04@gmail.com  
+- **LinkedIn:** linkedin.com/in/tikkosdanielpasaribu  
