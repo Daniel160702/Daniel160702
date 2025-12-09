@@ -7,36 +7,8 @@ Electrical Engineering Graduate • Electrical Mechanic • Programmer • IoT &
 
 ---
 
-<h2 align="left">About Me</h2>
-
-<p align="left">
-  <span class="typing-text"></span>
-</p>
-
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-
-.typing-text {
-  display: inline-block;
-  overflow: hidden;
-  border-right: 3px solid #00eaff;
-  white-space: nowrap;
-  animation: typing 6s steps(80, end), blink .6s step-end infinite;
-  font-family: monospace;
-  font-size: 18px;
-}
-
-.typing-text:after {
-  content: "I am an Electrical Engineering graduate with experience in industrial electrical maintenance, troubleshooting, and control systems. I’m passionate about programming, IoT development, automation, and integrating hardware–software solutions.";
-}
-</style>
+## 🧑‍💼 About Me
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&width=900&lines=I+am+an+Electrical+Engineering+graduate+with+experience+in+industrial+electrical+maintenance%2C+troubleshooting%2C+and+control+systems.;I'm+passionate+about+programming%2C+IoT+development%2C+automation%2C+and+integrating+hardware–software+solutions.)
 
 ---
 
