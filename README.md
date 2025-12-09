@@ -1,5 +1,5 @@
 ## Na? I am an Engineer 👋
-![Image](https://github.com/user-attachments/assets/4b2b53e8-4027-4518-b3c0-2a53ec8790b3)
+![Image](https://github.com/user-attachments/assets/b22c5e33-ccb6-45f3-8500-7164e5c56dbb)
 <!--
 -->
 Electrical Engineering graduate with experience in industrial electrical maintenance, instrumentation, microcontrollers (ESP32/Arduino), and control systems. I enjoy building simple automation projects, integrating hardware–software, and exploring HRIS and digital systems.
