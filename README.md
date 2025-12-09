@@ -1,5 +1,5 @@
-## Na? I am an Engineer 👋
-![Image](https://github.com/user-attachments/assets/b22c5e33-ccb6-45f3-8500-7164e5c56dbb)
+## 👋 Hi, I'm Tikkos Daniel Pasaribu
+![Image](https://github.com/user-attachments/assets/4d37911d-2fd8-4e8b-834b-9592d2d59912)
 <!--
 -->
 Electrical Engineering graduate with experience in industrial electrical maintenance, instrumentation, microcontrollers (ESP32/Arduino), and control systems. I enjoy building simple automation projects, integrating hardware–software, and exploring HRIS and digital systems.
