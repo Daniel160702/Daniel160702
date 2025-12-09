@@ -1,7 +1,6 @@
 ## Na? I am an Engineer 👋
 
-![Banner](Vs-242.gif)
-
+![Image](https://github.com/user-attachments/assets/2b7ff6ab-0492-46fe-980c-9ff6dc29ae66)
 <!--
 **Daniel160702/Daniel160702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
