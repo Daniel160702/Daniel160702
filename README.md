@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoSA9ZtCTYDl1-gWPXUBs-Eb7mmgceV80t8cL5BA3e2R2FxmunzMPK_BS_nJJ5Y1d63YHO59y9Ge4paJyl7n_Ne2k2rn5csrTk2ZvyyxdLXdSjOs5kKb6jZtv-mNORsnbUfSu427Zrj4o/s1600/s-242.gif)
+![Image](https://github.com/user-attachments/assets/4b2b53e8-4027-4518-b3c0-2a53ec8790b3)
 
 
 <!--
