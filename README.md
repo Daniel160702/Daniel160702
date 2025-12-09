@@ -59,7 +59,7 @@ I’m passionate about programming, IoT development, automation, and integrating
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/tikkosdanielpasaribu">
+  <a href="https://www.linkedin.com/in/tikkos-daniel-pasaribu-48523330a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
