@@ -1,5 +1,5 @@
-"![Image](https://github.com/user-attachments/assets/4d37911d-2fd8-4e8b-834b-9592d2d59912)"
-<h2 align="center">👋 Hi, I'm <strong>Tikkos Daniel Pasaribu</strong></h2>
+![Image](https://github.com/user-attachments/assets/4d37911d-2fd8-4e8b-834b-9592d2d59912)
+<h2 align="center">👋 Hi, I'm <strong>an Engineer</strong></h2>
 
 <p align="center">
 Electrical Engineering Graduate • Electrical Mechanic • Programmer • IoT & Automation Enthusiast
