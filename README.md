@@ -43,7 +43,7 @@ I’m passionate about programming, IoT development, automation, and integrating
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usrname=Daniel160702ME&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel160702&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel160702&layout=compact&theme=tokyonight" height="160" />
 </p>
 
